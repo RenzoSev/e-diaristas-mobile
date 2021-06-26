@@ -32,15 +32,16 @@ Each day we receive a new video about the project. The projects and techs are ch
 
 ## 🏃‍♀️ How to run the project <a name="how-to-run-the-project"></a>
 ### 1. Download the project
-```
-yarn add
-npm install
-```
-```
-yarn start
-npm start
-expo start
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
 ```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.``
 ## 💃 Presentation 💃 <a name="presentation"></a>
 ### 🖼️ Images 🖼️
